@@ -5,3 +5,5 @@ Welcome to mfile1 twice
 Welcome to mfile1 thrice
 
 Welcome to mfile1 four times
+
+git revert
